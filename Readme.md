@@ -4,6 +4,38 @@
 ## Purpose
 The primary purpose of this Spring Boot application is to handle POST requests for orders and forward them to a PostgreSQL database running in a Docker container.
 
+## Structure
+```plaintext
+.
+├── HELP.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+├── postgres.yml
+├── Readme.md
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── example
+│   │   │           └── spring_boot_rest_postgree
+│   │   │               ├── config
+│   │   │               │   └── OpenApiConfig.java
+│   │   │               ├── controller
+│   │   │               │   └── OrderController.java
+│   │   │               ├── models
+│   │   │               │   └── Order.java
+│   │   │               ├── repository
+│   │   │               │   └── OrderRepository.java
+│   │   │               ├── service
+│   │   │               │   └── OrderService.java
+│   │   │               └── SpringBootKafkaApplication.java
+│   │   └── resources
+│   │       ├── application.yml
+│   │       ├── banner.txt
+│   │       ├── static
+│   │       └── templates
+```
 ## Components
 ### Spring Boot
 - **Framework**: Spring Boot

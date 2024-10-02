@@ -12,7 +12,7 @@
 	<artifactId>spring-boot-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-jpa</name>
-	<description>Demo project for jpa with Spring Boot </description>
+	<description>JPA (Java Persistence API) with Spring Boot </description>
 	<url/>
 	<licenses>
 		<license/>
