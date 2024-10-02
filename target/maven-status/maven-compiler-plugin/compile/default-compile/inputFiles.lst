@@ -1,0 +1,5 @@
+/home/dg/Projects/spring-boot-kafka/src/main/java/com/example/spring_boot_kafka/SpringBootKafkaApplication.java
+/home/dg/Projects/spring-boot-kafka/src/main/java/com/example/spring_boot_kafka/config/KafkaTopicConfig.java
+/home/dg/Projects/spring-boot-kafka/src/main/java/com/example/spring_boot_kafka/consumer/KafkaConsumer.java
+/home/dg/Projects/spring-boot-kafka/src/main/java/com/example/spring_boot_kafka/controller/MessageController.java
+/home/dg/Projects/spring-boot-kafka/src/main/java/com/example/spring_boot_kafka/producer/KafkaProducer.java
